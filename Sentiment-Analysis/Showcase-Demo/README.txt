@@ -1,0 +1,2 @@
+This demo was a last minute tape together, so is a bit finicky to run!
+First, run the showcaseBot.py file. It's ready for input when the console output reads "tick" over and over. Second, run the unity Showcase Demo.exe.
